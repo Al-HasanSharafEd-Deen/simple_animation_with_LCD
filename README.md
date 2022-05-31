@@ -61,7 +61,7 @@ Hamoksha will die
 
 ### You can see the fall Hamoksha Vedio from here
 
-[vido](https://www.linkedin.com/posts/alhasansharafeddeen_lcddisplay-embedded-c-activity-6935703026846351360-2a7l?utm_source=linkedin_share&utm_medium=member_desktop_web)
+[Hamoksha's vido](https://www.linkedin.com/posts/alhasansharafeddeen_lcddisplay-embedded-c-activity-6935703026846351360-2a7l?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ==============================================================================
 
