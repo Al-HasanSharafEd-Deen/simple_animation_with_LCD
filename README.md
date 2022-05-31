@@ -27,4 +27,4 @@ This animation is a Fun story of Imaginary character I called Him **HAMOKSHA**
 
 you will see **Hamoksha Story** displayed on LCD
 
-![H1] (H1.jpeg)
+![H1](H1.jpeg)
