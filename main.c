@@ -1,14 +1,18 @@
 /*
  * main.c
  *
- *  Created on: May 24, 2022
+ *  Created on: Jun 11, 2022
  *      Author: Al-Hasan Ameer
  */
 
+
 #include "STD_TYPES.h"
-#include "DIO_interface.h"
-#include "LCD_interface.h"
-#include <util/delay.h>
+#include "BIT_MATH.H"
+
+#include "./DIO/DIO_interface.h"
+#include "./LCD/LCD_interface.h"
+
+#include  <util/delay.h>
 
 /*************************************Hamoksha arrays*************************************/
 /*main head and legs---main character*/
